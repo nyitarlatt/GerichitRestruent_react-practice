@@ -2,4 +2,4 @@
 
 practice - React without external css libraries
 
-live -
+live - https://nimble-sunflower-100bab.netlify.app/
