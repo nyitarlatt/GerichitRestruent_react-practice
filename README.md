@@ -1,5 +1,5 @@
 ### Restruent
 
-practice - React without external css libraries
+practice - React&Css
 
 live - https://nimble-sunflower-100bab.netlify.app/
